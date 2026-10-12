@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Public preview: every HTML page carries noindex, nofollow.

@@ -1,0 +1,24 @@
+.design-wexford{
+  --ink:#07172f;--forest:#123b8b;--paper:#f6f8fc;--muted:#506077;--line:#dbe3ef;
+  --gold:#a3ce19;--shadow:0 1px 2px #07172f0f,0 8px 24px #07172f14;
+}
+.design-wexford .eyebrow{color:#123b8b}
+.design-wexford .preview-tools{background:#06132b;color:#e3eaf7}
+.design-wexford .header-inner nav a:hover{background:#eaf0fc}
+.design-wexford .button{color:#07172f}
+.design-wexford .button:hover{background:#bce33d;border-color:#bce33d}
+.wexford-hero{background:radial-gradient(circle at 85% 20%,#16429a 0,transparent 45%),linear-gradient(110deg,#06132b,#0b2254)}
+.wexford-hero .eyebrow{color:#c2e86b}
+.wexford-promise{color:#c2e86b}
+.wexford-lead,.design-wexford .experience-note{color:#e3eaf7}
+.wexford-secondary:hover{color:#07172f}
+.design-wexford .service-card:hover{background:#eef3fc}
+.wexford-note{background:#eaf0fc;border-color:#cedcf4}
+.design-wexford .contact-section{background:#0b2254;color:#e3eaf7}
+.design-wexford .contact-inner p{color:#e3eaf7}
+.design-wexford footer{background:#06132b;color:#c3cee2}
+.design-wexford .detail-hero{background:radial-gradient(circle at 90% 10%,#16429a 0,transparent 40%),linear-gradient(120deg,#06132b,#0b2254)}
+.design-wexford .detail-hero .eyebrow{color:#c2e86b}
+.design-wexford .experience-band{background:#eaf0fc}
+.design-wexford a:focus-visible,.design-wexford button:focus-visible,.design-wexford summary:focus-visible{outline-color:#2359c4}
+.wexford-hero a:focus-visible,.design-wexford .detail-hero a:focus-visible,.design-wexford .contact-section a:focus-visible,.design-wexford footer a:focus-visible{outline-color:#c2e86b}
